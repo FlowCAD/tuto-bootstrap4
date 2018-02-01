@@ -1,7 +1,7 @@
 # tuto-bootstrap4
 Bootstrap 4 tutorial done with Gulp, Sass and obviously Bootstrap4 !
 
-## Result
+## Result (not functionnal yet)
 https://flowcad.github.io/tuto-bootstrap4/
 
 ## References
